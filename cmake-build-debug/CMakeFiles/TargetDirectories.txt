@@ -1,3 +1,0 @@
-C:/Users/Bory/Desktop/VUZ/TermProject24-25/NNS/cmake-build-debug/CMakeFiles/NNS.dir
-C:/Users/Bory/Desktop/VUZ/TermProject24-25/NNS/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Bory/Desktop/VUZ/TermProject24-25/NNS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
