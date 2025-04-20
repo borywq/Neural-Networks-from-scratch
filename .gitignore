@@ -1,0 +1,6 @@
+cmake-build-*
+.idea
+*.iml
+*.user
+*.log
+.DS_Store
